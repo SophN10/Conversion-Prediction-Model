@@ -108,4 +108,7 @@ Visualisations of feature importance and SHAP results are included in the accomp
 
 ## Goal
 To demonstrate an end-to-end applied machine learning project that connects **user behaviour, predictive modelling, explainability, and business decision-making**.
-To demonstrate an end-to-end applied machine learning project that connects **user behaviour, predictive modelling, explainability, and business decision-making**.
+
+Project presentation (PDF):  
+[View presentation](Online_Shopping_Conversion_Project.pdf)
+
