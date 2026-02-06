@@ -51,15 +51,15 @@ Performance trade-offs were assessed to align model choice with business objecti
 ---
 
 ## Results & Evaluation
-The final model demonstrated strong performance in identifying high-intent users while managing false positives.
+Model performance was assessed using 10-fold cross-validation, with ROC and precision-recall curves examined across folds to evaluate consistency and robustness.
 
-Key evaluation metrics (best performing model):
+The metrics below reflect representative performance observed across validation folds for the best-performing model:
 - PR-AUC: 0.99  
 - Precision: 0.94  
 - Recall: 0.96  
-- F1-score: 0.95 
+- F1-score: 0.95  
 
-These results show how predictive models can support targeted marketing and conversion optimisation strategies.
+These results indicate strong and stable performance in identifying high-intent users, while controlling false positives in an imbalanced classification setting.
 
 ---
 
