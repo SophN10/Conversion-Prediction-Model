@@ -11,7 +11,7 @@ Understanding which user behaviours lead to conversion allows organisations to:
 - improve targeting and personalisation strategies  
 - optimise website design and user journeys  
 
-This project frames conversion prediction as a **binary classification problem** using behavioural and interaction-level features.
+This project frames conversion prediction as a binary classification problem using behavioural and interaction-level features.
 
 ---
 
@@ -37,9 +37,9 @@ The project follows an end-to-end applied machine learning workflow:
 
 ### 2. Model Development
 Multiple models were trained and compared:
-- **Logistic Regression** – baseline model for interpretability  
-- **Random Forest** – to capture non-linear feature interactions  
-- **XGBoost** – high-performance gradient boosting classifier  
+- Logistic Regression – baseline model for interpretability  
+- Random Forest – to capture non-linear feature interactions  
+- XGBoost – high-performance gradient boosting classifier  
 
 ### 3. Model Evaluation
 Models were evaluated using metrics suitable for imbalanced classification:
@@ -53,13 +53,13 @@ Performance trade-offs were assessed to align model choice with business objecti
 ## Results & Evaluation
 The final model demonstrated strong performance in identifying high-intent users while managing false positives.
 
-**Key evaluation metrics (best performing model):**
+Key evaluation metrics (best performing model):
 - PR-AUC: 0.99  
 - Precision: 0.94  
 - Recall: 0.96  
 - F1-score: 0.95 
 
-These results show how predictive models can support **targeted marketing and conversion optimisation strategies**.
+These results show how predictive models can support targeted marketing and conversion optimisation strategies.
 
 ---
 
@@ -107,8 +107,11 @@ Visualisations of feature importance and SHAP results are included in the accomp
 ---
 
 ## Goal
-To demonstrate an end-to-end applied machine learning project that connects **user behaviour, predictive modelling, explainability, and business decision-making**.
+To demonstrate an end-to-end applied machine learning project that connects user behaviour, predictive modelling, explainability, and business decision-making.
 
-Project presentation (PDF):  
-https://github.com/SophN10/Conversion-Prediction-Model/blob/main/Online_Shopping_Conversion_Project.pdf
+---
+
+## Project Presentation
+📊 Project presentation (PDF):
+[View presentation](https://github.com/SophN10/Conversion-Prediction-Model/blob/main/Online_Shopping_Conversion_Project.pdf)
 
