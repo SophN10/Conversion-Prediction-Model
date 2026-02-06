@@ -76,7 +76,7 @@ Visualisations of feature importance and SHAP results are included in the accomp
 ---
 
 ## Project Structure
-- `01_data_cleaning.R` – Data cleaning, feature engineering, class balancing and EDA  
+- `01_data_cleaning_and_eda.R` – Data cleaning, feature engineering, class balancing and EDA  
 - `02_model_training.R` – Model training, evaluation and comparison  
 - `presentation/` – PDF presentation summarising methodology, results and explainability insights  
 
