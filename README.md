@@ -87,7 +87,7 @@ Visualisations of feature importance and SHAP results are included in the accomp
 2. Open the `.R` scripts in RStudio (or another R IDE)  
 3. Install required packages (e.g. tidyverse, caret, xgboost)  
 4. Run scripts in order:  
-   `01_data_cleaning.R` → `02_model_training.R`
+   `01_data_cleaning_and_eda.R` → `02_model_training.R`
 
 ---
 
@@ -102,7 +102,8 @@ Visualisations of feature importance and SHAP results are included in the accomp
 
 ## Limitations & Next Steps
 - Incorporate additional session-level or temporal behavioural features  
-- Operationalise the model by exposing predictions via a simple API or interactive dashboard for ongoing decision support  
+- Operationalise the model by exposing predictions via a simple API or interactive dashboard for ongoing decision support
+- Aggregate performance metrics and confusion matrices across validation folds to provide summary statistics and confidence in model stability
 
 ---
 
