@@ -110,5 +110,5 @@ Visualisations of feature importance and SHAP results are included in the accomp
 To demonstrate an end-to-end applied machine learning project that connects **user behaviour, predictive modelling, explainability, and business decision-making**.
 
 Project presentation (PDF):  
-[View presentation](Online_Shopping_Conversion_Project.pdf)
+https://github.com/SophN10/Conversion-Prediction-Model/blob/main/Online_Shopping_Conversion_Project.pdf
 
